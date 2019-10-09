@@ -1,0 +1,17 @@
+{
+    "name": "notgoddess/ardent",
+    "description": "Drupal 8 theme that aims to be ardent a11y to accessibility",
+    "type": "drupal-theme",
+    "authors": [
+        {
+            "name": "Sara Jacobson (NotGoddess)",
+            "email": "drupal@notgoddess.com",
+            "homepage": "https://www.drupal.org/u/notgoddess",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/notgoddess/ardent/issues"
+    },
+  "license": "GPL-2.0-or-later"
+}

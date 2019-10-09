@@ -1,0 +1,14 @@
+<header role="banner">
+  {% if page.header %}{{ page.header }}{% endif %}
+  {% if page.nav %}{{ page.nav }}{% endif %}
+</header>
+<main>
+  {% if page.contenttop %}{{ page.contenttop }}{% endif %}
+  {% if page.content %}{{ page.content }}{% endif %}
+  {% if page.contentbottom %}{{ page.contentbottom }}{% endif %}
+  {% if page.sidebar %}{{ page.sidebar }}{% endif %}
+  {% if page.contentfooter %}{{ page.contentfooter }}{% endif %}
+</main>
+<footer>
+  {% if page.contentinfo %}{{ page.contentinfo }}{% endif %}
+</footer>
