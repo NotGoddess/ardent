@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Actor:400|Actor:400");
+html {
+  font-size: 16px;
+  font-family: 'Actor', sans-serif;
+  font-weight: 400; }
+
+@media screen and (min-width: 768px) {
+  html {
+    font-size: 17px; } }
+
+@media screen and (min-width: 1200px) {
+  html {
+    font-size: 18px; } }
+
+h1 {
+  font-size: 1.5157rem;
+  line-height: 1.5157rem;
+  margin-top: 0;
+  margin-bottom: 0.7579rem; }
+
+h2 {
+  font-size: 1.3195rem;
+  line-height: 1.3195rem;
+  margin-top: 1.3195rem;
+  margin-bottom: 0.6597rem; }
+
+h3 {
+  font-size: 1.1487rem;
+  line-height: 1.1487rem;
+  margin-top: 1.1487rem;
+  margin-bottom: 0.5744rem; }
+
+h4 {
+  font-size: 1.0000rem;
+  line-height: 1.0000rem;
+  margin-top: 1.0000rem;
+  margin-bottom: 0.5000rem; }
+
+p {
+  font-size: 1rem;
+  line-height: 1rem;
+  margin-bottom: 1rem; }
+
+body header,
+body main,
+body footer {
+  border: 1px solid; }
+
+body {
+  background: #FFF;
+  color: #000; }
+
+header {
+  background: #000;
+  color: #FFF; }
+
+main {
+  background: #FFF;
+  color: #000; }
+
+footer {
+  background: #000;
+  color: #FFF; }

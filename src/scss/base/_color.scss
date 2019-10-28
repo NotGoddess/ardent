@@ -1,0 +1,41 @@
+
+
+
+body,
+main {
+  background: #FFF;
+  color: #000;
+}
+
+header,
+footer {
+  background: #000;
+  color: #FFF;
+}
+
+a {
+  color: inherit;
+
+  &:link,
+  &:visited {
+    color: inherit;
+  }
+
+  &:focusin {
+    color: inherit;
+  }
+
+  &:hover,
+  &:focus {
+    color: inherit;
+  }
+
+  &:active {
+    color: inherit;
+  }
+
+  &:focusout {
+    color: inherit;
+  }
+}
+
